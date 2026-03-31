@@ -1,0 +1,5 @@
+{
+  "name": "AI ID Photo Generator",
+  "description": "An application that uses Gemini to convert uploaded photos into professional ID photos with customizable background colors.",
+  "requestFramePermissions": []
+}
